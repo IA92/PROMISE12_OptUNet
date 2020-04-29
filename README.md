@@ -11,14 +11,14 @@ No pre-trained models or test results provided to reduce the possibilities of tr
 # Getting Started
 1. Download the repository.
 2. Ensure that the dependencies are installed. 
-  - Tensorflow >= 1.12.0
-  - Keras >= 2.2.4
-  - Sklearn >= 0.19.1
-  - Cv2 >= 3.4.4
-  - Numpy >= 1.15.4
-  - Matplotlib >= 2.2.2
-  - Skimage >= 0.13.1
-  - SimpleITK  
+    - Tensorflow >= 1.12.0
+    - Keras >= 2.2.4
+    - Sklearn >= 0.19.1
+    - Cv2 >= 3.4.4
+    - Numpy >= 1.15.4
+    - Matplotlib >= 2.2.2
+    - Skimage >= 0.13.1
+    - SimpleITK  
 3. Download PROMISE12 training set, unzipped it and place it in TrainData folder.
 4. Download PROMISE12 test set, unzipped it and place it in TestData folder.
 5. Run the jupyter notebook.
