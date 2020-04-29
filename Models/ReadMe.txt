@@ -1,0 +1,1 @@
+This is the folder where the models of each epoch will be saved to.
