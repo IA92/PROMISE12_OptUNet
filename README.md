@@ -1,4 +1,4 @@
-# IA92_OptUNet
+# PROMISE12_OptUNet
 An optimised U-Net for prostate segmentation evaluated on PROMISE12 test set. 
 
 Architecture used in paper "[Optimisation of 2D U-Net Model Components for Automatic Prostate Segmentation on MRI](https://www.mdpi.com/2076-3417/10/7/2601)"
